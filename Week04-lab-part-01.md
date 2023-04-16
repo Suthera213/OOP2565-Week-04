@@ -118,13 +118,19 @@ Mammal <|-- whales
     
 
     1.4 Amphibians (สัตว์ครึ่งบกครึ่งน้ำ) เช่น กบ เขียด อึ่งอ่าง เกิดในน้ำ เมื่อแรกเกิดจะหายใจด้วยเหงือกคล้ายปลา เมื่อโตขึ้นจะพัฒนาปอดขึ้นมาและอาศัยบนบกเป็นหลัก
-![image](https://user-images.githubusercontent.com/115066359/232250682-5e071695-f0ad-4172-aae1-dc8d600cb92e.png)
+    ![image](https://user-images.githubusercontent.com/115066359/232250682-5e071695-f0ad-4172-aae1-dc8d600cb92e.png)
 
     1.5 Arthropods เช่น กุ้ง ก้งกือ แมงมุม มด เป็นสัตว์ที่มีมากกว่า 4 ขา 
+    ![image](https://user-images.githubusercontent.com/115066359/232274638-1bbca90e-d034-471b-b940-c696e9055d30.png)
+
 
 2. ให้วิเคราะห๋และเขียนคลาสไดอะแกรม แสดงการสืบทอดของยานพาหนะ ทางบก ทางน้ำ และ ทางอากาศ
+![image](https://user-images.githubusercontent.com/115066359/232276868-2ed4bc23-5c95-4a14-b576-2c0a8ae3c18b.png)
+
 
 3. ให้ยกตัวอย่างประเภทของที่อยู่อาศัย ให้คำจำกัดความและแสดงคลาสไดอะแกรม
+![image](https://user-images.githubusercontent.com/115066359/232278311-aca532c3-d46a-4c21-8365-0994c71c1954.png)
+
 
 ## 2. [แผนภาพตามแนวคิด Association abstraction](Week04-lab-part-02.md)
 
