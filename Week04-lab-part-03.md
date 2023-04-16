@@ -49,8 +49,9 @@ class Professor
 Student "10..40" - "0..1" Subject : > enrolled in
 Subject "1" - "1..3 "Professor : < instructs
 @enduml
-
 ```
+![สมุดโน้ตไม่มีชื่อ-2](https://user-images.githubusercontent.com/115066359/232291363-54ed993f-8d2c-448a-8aaf-08df74be9f1e.jpg)
+![image](https://user-images.githubusercontent.com/115066359/232291388-23a45e53-0c20-45ac-abc1-07dadda065eb.png)
 
 3. 
 
@@ -109,6 +110,10 @@ DialPad -|> Keypad
 Keypad <|- AnswerButton
 @enduml
 ```
+
+![สมุดโน้ตไม่มีชื่อ-3](https://user-images.githubusercontent.com/115066359/232291405-6cba1c43-5bee-4c14-8981-3e43144a59c5.jpg)
+![image](https://user-images.githubusercontent.com/115066359/232291415-a0e6131b-7b05-4e14-9cf4-60c620c74c38.png)
+
 
 
 ### จบการทดลองและแบบฝึกหัด
